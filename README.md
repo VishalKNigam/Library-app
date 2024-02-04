@@ -11,6 +11,10 @@ This project is a Library App that allows users to manage books through a web in
 
 - https://library-app-backend-navy.vercel.app/
 
+## Backend Git repository
+
+- https://github.com/VishalKNigam/Library-app-backend
+
 ## Tools and Technologies Used
 
 ### Frontend
